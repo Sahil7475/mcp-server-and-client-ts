@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "address": "123 Main St, New York, NY 10001",
+    "phone": "+1-555-123-4567"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "address": "456 Elm St, Los Angeles, CA 90001",
+    "phone": "+1-555-987-6543"
+  },
+  {
+    "id": 3,
+    "name": "Clara Davis",
+    "email": "clara.davis@example.com",
+    "address": "789 Oak Ave, Chicago, IL 60601",
+    "phone": "+1-555-321-7890"
+  },
+  {
+    "id": 4,
+    "name": "aasasc",
+    "email": "ascsacsa",
+    "address": "acscsa",
+    "phone": "acscsacsa"
+  },
+  {
+    "id": 5,
+    "name": "aasasc",
+    "email": "ascsacsa",
+    "address": "acscsa",
+    "phone": "acscsacsa"
+  },
+  {
+    "id": 6,
+    "name": "xyz",
+    "email": "zyz@gmail.com",
+    "address": "dummy",
+    "phone": "87878787"
+  },
+  {
+    "id": 7,
+    "name": "Jessica Ramirez",
+    "email": "jessica.ramirez82@gmail.com",
+    "address": "1842 Willowbrook Lane, Austin, TX 78741",
+    "phone": "(512) 555-3472"
+  },
+  {
+    "id": 8,
+    "name": "dummy",
+    "email": "dummy@gmail.com",
+    "address": "dummyAddress",
+    "phone": "776767676767"
+  },
+  {
+    "id": 9,
+    "name": "jhjdh",
+    "email": "jhjhj",
+    "address": "hghgh",
+    "phone": "hghgh'"
+  },
+  {
+    "id": 10,
+    "name": "dgfddf",
+    "email": "gfdgdgf",
+    "address": "dfggfd",
+    "phone": "dffdf"
+  },
+  {
+    "id": 11,
+    "name": "Eleanor Vance",
+    "email": "eleanor.vance78@example.com",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62704"
+    },
+    "phone": "217-555-9876"
+  },
+  {
+    "id": 12,
+    "name": "Eleanor Vance",
+    "email": "eleanor.vance78@example.com",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62704"
+    },
+    "phone": "217-555-9876"
+  },
+  {
+    "id": 13,
+    "name": "ui",
+    "email": "fg@gmail.com",
+    "address": "something",
+    "phone": "878787878"
+  },
+  {
+    "id": 14,
+    "name": "Eleanor Vance",
+    "email": "eleanor.vance78@example.com",
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "Springfield",
+      "state": "IL",
+      "zip": "62704"
+    },
+    "phone": "217-555-9876"
+  }
+]
