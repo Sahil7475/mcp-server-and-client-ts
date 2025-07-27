@@ -76,7 +76,15 @@ npm run server:inspect
 npm run server:build:watch
 ```
 
-### 4. Start the MCP Client
+### 4. Environment Setup
+
+Create a `.env` file in the root directory and add your Gemini API key:
+
+```env
+GEMINI_API_KEY=your-gemini-api-key-here
+```
+
+### 5. Start the MCP Client
 ```bash
 npm run client:dev
 ```
