@@ -88,6 +88,7 @@ GEMINI_API_KEY=your-gemini-api-key-here
 ```bash
 npm run client:dev
 ```
+---
 
 ### Use Cases
 
@@ -96,6 +97,8 @@ npm run client:dev
 - Using Gemini 2.0 Flash for sampling/generation via prompt templates  
 - CLI interactions that simulate real users calling tools  
 - Testing & debugging with a MCP Inspector
+
+---
 
 ### Future Enhancements
 
